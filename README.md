@@ -14,6 +14,8 @@ It is also pushed to dockerhub, run the app by the command: (latest tagname: v0.
 ```
 docker run -p 4000:80 hamesewe/statsclf:tagname
 ```
+Web app is available at http://localhost:4000 after executing the command.
+</br></br>
 Dockerhub Link: [hamesewe/statsclf](https://hub.docker.com/r/hamesewe/statsclf)
 
 ## Demo
