@@ -19,4 +19,4 @@ Web app is available at http://localhost:4000 after executing the command.
 Dockerhub Link: [hamesewe/statsclf](https://hub.docker.com/r/hamesewe/statsclf)
 
 ## Demo
-[Chart Classification](http://chartmaster.cf)
+[~~http://chartmaster.cf~~](http://chartmaster.cf)
